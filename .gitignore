@@ -1,0 +1,29 @@
+# Raw source folders kept locally but not published
+ImplementadasEmJava/
+ImplementadasEmC/
+
+# Java generated files
+*.class
+out/
+build/
+.idea/
+*.iml
+
+# C/C++ generated files
+*.exe
+*.o
+*.obj
+*.bin
+*.dat.tmp
+
+# Local/temporary files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.zip
+*.rar
+*.7z
+
+# Astah/project editor files
+*.asta
