@@ -17,12 +17,6 @@ Java implementation of a binary digital tree built from records containing strin
 - Includes a decoding method based on binary sequences.
 - Uses `RandomAccessFile` for record-based file access.
 
-## Build
-
-```bash
-javac -encoding UTF-8 -d build src/*.java
-```
-
 This implementation currently does not include a `Main.java` demo. The source compiles as a reusable structure and can be exercised by creating records with `Registro` and loading them through `Arquivo`.
 
 ## Files
