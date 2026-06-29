@@ -17,13 +17,6 @@ Java implementation of a B+ tree with configurable order, leaf linking and itera
 - Linked leaf nodes for ordered sequential display.
 - Iterative in-order traversal using a custom stack.
 
-## Run
-
-```bash
-javac -encoding UTF-8 -d build src/*.java
-java -cp build Main
-```
-
 ## Files
 
 - `BPlusTree.java`: core B+ tree implementation.
