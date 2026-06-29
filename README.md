@@ -9,8 +9,6 @@
 
 This repository is a collection of data structures studied and implemented during Computer Science coursework. The goal is to keep the implementations organized by language, with clean source code, build instructions and short documentation for each structure.
 
-The repository currently focuses on Java tree-based structures and includes the previous Huffman compression project in C++. C implementations will be added later as they are recovered and organized.
-
 ## Repository Structure
 
 ```text
