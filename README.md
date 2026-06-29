@@ -9,23 +9,6 @@
 
 This repository is a collection of data structures studied and implemented during Computer Science coursework. The goal is to keep the implementations organized by language, with clean source code, build instructions and short documentation for each structure.
 
-## Repository Structure
-
-```text
-java/
-  b-plus-tree/
-  binary-digital-tree/
-  patricia-tree/
-  patricia-trie-alt/
-  n-ary-tree-linked-lists/
-
-cpp/
-  huffman-tree/
-
-c/
-  README.md
-```
-
 ## Implementations
 
 | Area | Project | Language | Concepts |
