@@ -17,13 +17,6 @@ Java Patricia/trie-style tree implementation for storing and displaying words.
 - Iterative word display using a custom stack.
 - Demonstration with a classic word set such as `bear`, `bell`, `bid`, `bull`, `buy`, `sell`, `stock` and `stop`.
 
-## Run
-
-```bash
-javac -encoding UTF-8 -d build src/*.java
-java -cp build Main
-```
-
 ## Files
 
 - `Arvore.java`: Patricia tree logic.
