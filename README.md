@@ -3,10 +3,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" />
   <img src="https://img.shields.io/badge/Java-24-orange" />
-  <img src="https://img.shields.io/badge/C%2B%2B-Huffman-blue" />
   <img src="https://img.shields.io/badge/Data%20Structures-Trees-purple" />
   <img src="https://img.shields.io/badge/Algorithms-Search%20%26%20Compression-brightgreen" />
-  <img src="https://img.shields.io/badge/Academic%20Lab-Portfolio-black" />
 </p>
 
 This repository is a collection of data structures studied and implemented during Computer Science coursework. The goal is to keep the implementations organized by language, with clean source code, build instructions and short documentation for each structure.
