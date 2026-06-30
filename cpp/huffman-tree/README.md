@@ -10,8 +10,6 @@
 
 C++ implementation of Huffman encoding and decoding using binary trees, ordered linked lists and file manipulation.
 
-This project was imported from the previous standalone `huffman-tree` repository so it can live together with the broader data structures collection.
-
 ## Highlights
 
 - Reads text files.
