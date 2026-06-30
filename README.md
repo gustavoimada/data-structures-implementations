@@ -1,4 +1,4 @@
-# Data Structures Lab
+# Data Structures Implementations
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" />
