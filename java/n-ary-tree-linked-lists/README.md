@@ -17,13 +17,6 @@ Java implementation of an N-ary tree represented with custom linked lists for no
 - Level-order display using a queue.
 - Manual pointer-style structure modeling in Java.
 
-## Run
-
-```bash
-javac -encoding UTF-8 -d build src/*.java
-java -cp build Main
-```
-
 ## Files
 
 - `Arvore.java`: tree insertion and display logic.
