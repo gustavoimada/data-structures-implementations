@@ -6,4 +6,4 @@
   <img src="https://img.shields.io/badge/Focus-Manual%20Data%20Structures-purple" />
 </p>
 
-This folder is reserved for C implementations that will be added later, such as generalized lists, binary trees and other data structures implemented manually.
+This folder is reserved for C implementations such as generalized lists, binary trees and other data structures implemented manually.
