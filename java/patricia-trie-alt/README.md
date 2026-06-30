@@ -18,13 +18,6 @@ Alternative Java implementation of a Patricia trie with compressed branching, pr
 - Displays the tree by level using a custom queue.
 - Includes a UML/class diagram image in `docs/`.
 
-## Run
-
-```bash
-javac -encoding UTF-8 -d build src/*.java
-java -cp build Main
-```
-
 ## Files
 
 - `TriePatricia.java`: main compressed trie implementation.
